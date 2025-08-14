@@ -3,6 +3,7 @@
 ## 2025 Summer
 ---
 ### Hyeonsik Roh
+To be added
 1. 2025-06-30;
 2. 2025-07-07;
 3. 2025-07-14;
@@ -26,8 +27,10 @@
 
 6. 2025-08-04; Deep learning method for reducing metal artifacts in dental cone beam CT using supplementary information from intra-oral scan; Chang Min Hyun et al; Phys. Med. Biol. 2022;
 
-7. 2025-08-11; Influence of attachment position and torque overcorrection on arch expansion in clear aligner treatment: a three-dimensional finite element analysis; Ziwei Tang et al; The Angle Orthodontics 2025; [See Presentation from Figma](https://www.figma.com/slides/kjTCa9JaLe8BzPjsKwb0us/20250811?node-id=1-178&t=ZAu3hRWOeUnO2l0h-1)
+7. 2025-08-11; Influence of attachment position and torque overcorrection on arch expansion in clear aligner treatment: a three-dimensional finite element analysis; Ziwei Tang et al; The Angle Orthodontics 2025; [See Presentation from Figma](https://www.figma.com/deck/kjTCa9JaLe8BzPjsKwb0us/20250811?node-id=1-178&t=ZAu3hRWOeUnO2l0h-1)
 
 8. 2025-08-18; Canceled due to reserve forces training (예비군)
 
 [See Presentations from Google Drive](https://drive.google.com/drive/folders/1FSWcqaDE-KTvzFdcVLxjbcnqreDiYPaJ?usp=drive_link)
+
+---
